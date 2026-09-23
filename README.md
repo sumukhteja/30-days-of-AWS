@@ -6,3 +6,4 @@ Welcome to my 30-day journey of exploring Amazon Web Services (AWS) to master cl
 
 - [Day 1: Cloud basics and global infrastructure](day-01.md)
 - [Day 2: IAM users, groups and policies](day-02.md)
+- [Day 3: IAM roles, STS and Organizations](day-03.md)
