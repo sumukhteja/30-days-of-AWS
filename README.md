@@ -11,3 +11,4 @@ Welcome to my 30-day journey of exploring Amazon Web Services (AWS) to master cl
 - [Day 5: EC2 pricing options](day-05.md)
 - [Day 6: EBS and instance store](day-06.md)
 - [Day 7: EFS and FSx](day-07.md)
+- [Day 8: Elastic Load Balancing](day-08.md)
